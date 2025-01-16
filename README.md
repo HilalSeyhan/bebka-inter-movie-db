@@ -1,3 +1,5 @@
+https://drive.google.com/file/d/1d3NywGuqiPjpO7SeR4fp00F3gNlvFobg/view?usp=drive_link
+
 ## Başlarken
 
 - Bu depoyu klonlayın (ssh bağlantınızın düzgün bir şekilde kurulduğundan emin olun) - Kod düzenleyicinizde [prettier](https://prettier.io/) yüklü olduğundan emin olun - Ayrıca tarayıcınızda [pesticide browser extension](https://chrome.google.com/webstore/detail/pesticide-for-chrome-with/neonnmencpneifkhlmhmfhfiklgjmloi) yüklü olduğundan emin olun.
